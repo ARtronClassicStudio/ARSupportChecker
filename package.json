@@ -1,8 +1,12 @@
 {
   "name": "com.unity.arsupportchecker",
   "displayName": "AR Support Checker",
+  "version": "1.0.1",
+  "unity": "2021.3",
   "description": "Single-line detection of AR supported (ARCore, ARKit, AR Foundation) devices.",
   "version": "1.0.1",
   "license": "MIT",
-  "dependencies": {}
+  "keywords": ["tools","editor"],
+  "dependencies": {},
+  "author": { "name": "Unity" }
 }
