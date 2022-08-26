@@ -7,10 +7,10 @@
             get
             {
                 #if UNITY_IOS && !UNITY_EDITOR
-                return IOSARSupportChecker.IsSupported();
+                return IOSARSupportChecker.IsSupported;
                 #endif
                 #if UNITY_ANDROID && !UNITY_EDITOR
-                return AndroidARSupportChecker.IsSupported();
+                return AndroidARSupportChecker.IsSupported;
                 #endif
                 #if UNITY_EDITOR
                 return false;
