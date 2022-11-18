@@ -15,6 +15,7 @@ and paste to
 ```C#
 using UnityEngine;
 using ARSupportCheck;
+
 public class Sample : MonoBehaviour
 {
     public GameObject canvas;
