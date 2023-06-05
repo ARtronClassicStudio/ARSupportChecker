@@ -1,4 +1,5 @@
 # ARSupportChecker
+the package checks for the availability of AP services on the phone.
 
 # Installation:
 Copy 
